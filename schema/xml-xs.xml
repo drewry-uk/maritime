@@ -1,0 +1,18 @@
+<xs:simpleType name="enumTradePartyType">
+	<xs:restriction base="xs:string">
+		<xs:enumeration value="MANUFACTURER"/>
+		<xs:enumeration value="EXPORTER"/>
+		<xs:enumeration value="IMPORTER"/>
+		<xs:enumeration value="SHIPPER"/>
+		<xs:enumeration value="CARRIER"/>
+		<xs:enumeration value="BROKER"/>
+		<xs:enumeration value="FILER"/>
+		<xs:enumeration value="CONSIGNEE"/>
+		<xs:enumeration value="AGENT"/>
+		<xs:enumeration value="BUYER"/>
+		<xs:enumeration value="SELLER"/>
+		<xs:enumeration value="FACILITATOR"/>
+		<xs:enumeration value="OTHER"/>
+		<xs:enumeration value="UNKNOWN"/>
+	</xs:restriction>
+</xs:simpleType>

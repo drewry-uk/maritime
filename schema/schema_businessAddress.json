@@ -1,0 +1,38 @@
+{
+  "TradeAddress": {
+    "type": "object",
+    "properties": {
+      "CityName": {
+        "description": "The name, expressed as text, of the city, town or village of this trade address.",
+        "type": "string"
+      },
+      "Country": {
+        "description": "The unique identifier of a country for this trade address.",
+        "type": "string"
+      },
+      "CountryName": {
+        "description": "A name, expressed as text, of the country for this trade address.",
+        "type": "string"
+      },
+      "CountrySubDivisionName": {
+        "description": "A name, expressed as text, of the sub-division of a country for this trade address.",
+        "type": "string"
+      },
+      "Identification": {
+        "items": {
+          "description": "A unique identifier for this trade address.",
+          "type": "string"
+        },
+        "type": "array"
+      },
+      "Postcode": {
+        "description": "A code specifying the postcode of this trade address.",
+        "type": "string"
+      },
+      "StreetName": {
+        "description": "A name, expressed as text, of a street or thoroughfare for this trade address.",
+        "type": "string"
+      }
+    }
+  }
+}
