@@ -1,0 +1,3042 @@
+[
+  {
+    "": "Prefix",
+    "__1": "Owner",
+    "__2": "Owner - Abbreviation"
+  },
+  {
+    "": "AAAU",
+    "__1": "Asia Container",
+    "__2": ""
+  },
+  {
+    "": "ACCU",
+    "__1": "Atlantic Coast Container (ACCBS)",
+    "__2": ""
+  },
+  {
+    "": "ACLU",
+    "__1": "Atlantic Container Line",
+    "__2": "ACL"
+  },
+  {
+    "": "ACXU",
+    "__1": "Grieg Star Shipping",
+    "__2": "Grieg Star"
+  },
+  {
+    "": "AEXU",
+    "__1": "Africa Express Line",
+    "__2": "AEL"
+  },
+  {
+    "": "AGLU",
+    "__1": "Agunsa Chile",
+    "__2": ""
+  },
+  {
+    "": "AKLU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "ALLU",
+    "__1": "Allied Container Network",
+    "__2": ""
+  },
+  {
+    "": "ALMU",
+    "__1": "Almar Container Group",
+    "__2": ""
+  },
+  {
+    "": "ALNU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "ALRU",
+    "__1": "Almar Container Group",
+    "__2": ""
+  },
+  {
+    "": "AMCU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "AMFU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "AMZU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "ANNU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "ANYU",
+    "__1": "One Way Lease",
+    "__2": ""
+  },
+  {
+    "": "APDU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "APHU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "APIU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "APLU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "APMU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "APRU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "APZU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "ARDU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "ARKU",
+    "__1": "Arkas Container Transport S.A.",
+    "__2": "Arkas"
+  },
+  {
+    "": "ARMU",
+    "__1": "Adeptainer",
+    "__2": ""
+  },
+  {
+    "": "ARTU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "ATBU",
+    "__1": "A-Tainer & Service",
+    "__2": ""
+  },
+  {
+    "": "ATIU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "ATVU",
+    "__1": "Peacock",
+    "__2": ""
+  },
+  {
+    "": "AWSU",
+    "__1": "Swire Shipping",
+    "__2": "Swire"
+  },
+  {
+    "": "AXIU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "AZLU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "BAFU",
+    "__1": "Bulkhaul Ltd.",
+    "__2": ""
+  },
+  {
+    "": "BBXU",
+    "__1": "BestBox-Containerhandel e.K.",
+    "__2": ""
+  },
+  {
+    "": "BCGU",
+    "__1": "Bloedorn Container",
+    "__2": ""
+  },
+  {
+    "": "BCHU",
+    "__1": "Braun Container Handels GmbH",
+    "__2": ""
+  },
+  {
+    "": "BCLU",
+    "__1": "Bermuda Container Line",
+    "__2": "BCL"
+  },
+  {
+    "": "BEAU",
+    "__1": "Beacon Intermodal",
+    "__2": ""
+  },
+  {
+    "": "BECU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "BGFU",
+    "__1": "BG Freight Line",
+    "__2": "BG Freight"
+  },
+  {
+    "": "BHCU",
+    "__1": "Bridgehead Container Services Ltd",
+    "__2": ""
+  },
+  {
+    "": "BISU",
+    "__1": "Bermuda International Shipping Ltd",
+    "__2": "BISL"
+  },
+  {
+    "": "BLJU",
+    "__1": "Balaji Shipping Lines FZCO",
+    "__2": "Balaji"
+  },
+  {
+    "": "BLKU",
+    "__1": "Bulkhaul Ltd.",
+    "__2": ""
+  },
+  {
+    "": "BLTU",
+    "__1": "Balticon",
+    "__2": ""
+  },
+  {
+    "": "BMLU",
+    "__1": "King Ocean Sercies",
+    "__2": "King Ocean"
+  },
+  {
+    "": "BMOU",
+    "__1": "Beacon Intermodal",
+    "__2": ""
+  },
+  {
+    "": "BORU",
+    "__1": "Borchard Lines Ltd",
+    "__2": "Borchard"
+  },
+  {
+    "": "BOXU",
+    "__1": "Bulkhaul Ltd.",
+    "__2": ""
+  },
+  {
+    "": "BRFU",
+    "__1": "Bulkhaul Ltd.",
+    "__2": ""
+  },
+  {
+    "": "BRKU",
+    "__1": "Bulkhaul Ltd.",
+    "__2": ""
+  },
+  {
+    "": "BSIU",
+    "__1": "Blue Sky Intermodal (UK) Ltd",
+    "__2": ""
+  },
+  {
+    "": "BUTU",
+    "__1": "Brointermed Lines Limited",
+    "__2": "BT"
+  },
+  {
+    "": "BVIU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "BXRU",
+    "__1": "TITAN Containers International A/S",
+    "__2": ""
+  },
+  {
+    "": "CAAU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "CADU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "CAEU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "CAIU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "CARU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "CASU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "CATU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "CAXU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "CAZU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "CBCU",
+    "__1": "Container Brokerage Company",
+    "__2": ""
+  },
+  {
+    "": "CBHU",
+    "__1": "COSCO Container Lines",
+    "__2": "COSCON"
+  },
+  {
+    "": "CCGU",
+    "__1": "CATU Containers",
+    "__2": ""
+  },
+  {
+    "": "CCLU",
+    "__1": "COSCO Container Lines",
+    "__2": "COSCON"
+  },
+  {
+    "": "CCRU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "CCSU",
+    "__1": "Servial CC ApS",
+    "__2": ""
+  },
+  {
+    "": "CDDU",
+    "__1": "Container Providers International",
+    "__2": ""
+  },
+  {
+    "": "CDKU",
+    "__1": "Containerland Danmark",
+    "__2": ""
+  },
+  {
+    "": "CEOU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "CESU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "CGHU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "CGIU",
+    "__1": "Conglobal Industries",
+    "__2": ""
+  },
+  {
+    "": "CGMU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "CGTU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "CHIU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "CHSU",
+    "__1": "CHS Container",
+    "__2": ""
+  },
+  {
+    "": "CIPU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "CKLU",
+    "__1": "CK Line",
+    "__2": "CK Line"
+  },
+  {
+    "": "CLCU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "CLHU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "CLOU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CLTU",
+    "__1": "Sogeco",
+    "__2": ""
+  },
+  {
+    "": "CLXU",
+    "__1": "Container Leasing A/S",
+    "__2": ""
+  },
+  {
+    "": "CMAU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "CMCU",
+    "__1": "Crowley",
+    "__2": "Crowley"
+  },
+  {
+    "": "CMNU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "CMTU",
+    "__1": "IJ-Container ApS",
+    "__2": ""
+  },
+  {
+    "": "CMUU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "CNCU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "CNEU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "CNIU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "CNSU",
+    "__1": "Spinnaker Equipment Services",
+    "__2": ""
+  },
+  {
+    "": "COCU",
+    "__1": "Samskip",
+    "__2": "Samskip"
+  },
+  {
+    "": "CORU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "COZU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "CPIU",
+    "__1": "Container Providers International",
+    "__2": ""
+  },
+  {
+    "": "CPLU",
+    "__1": "ContainerPLUS",
+    "__2": ""
+  },
+  {
+    "": "CPSU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "CPWU",
+    "__1": "Container Providers International",
+    "__2": ""
+  },
+  {
+    "": "CRLU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "CRSU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CRTU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CRXU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CSFU",
+    "__1": "Containerships",
+    "__2": "Containerships"
+  },
+  {
+    "": "CSLU",
+    "__1": "COSCO Container Lines",
+    "__2": "COSCON"
+  },
+  {
+    "": "CSNU",
+    "__1": "COSCO Container Lines",
+    "__2": "COSCON"
+  },
+  {
+    "": "CSOU",
+    "__1": "Containerships",
+    "__2": "Containerships"
+  },
+  {
+    "": "CSQU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "CSVU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "CTMU",
+    "__1": "Cetem Containers",
+    "__2": ""
+  },
+  {
+    "": "CTWU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "CTXU",
+    "__1": "Containex",
+    "__2": ""
+  },
+  {
+    "": "CUBU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "CUCU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CULU",
+    "__1": "China United Lines",
+    "__2": "CU Lines"
+  },
+  {
+    "": "CXCU",
+    "__1": "Matson",
+    "__2": "Matson"
+  },
+  {
+    "": "CXDU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CXIU",
+    "__1": "TITAN Containers International A/S",
+    "__2": ""
+  },
+  {
+    "": "CXRU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CXSU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CXTU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "CZLU",
+    "__1": "Containerships",
+    "__2": "Containerships"
+  },
+  {
+    "": "CZZU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "DACU",
+    "__1": "DanContainer A/S",
+    "__2": ""
+  },
+  {
+    "": "DAMU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "DAYU",
+    "__1": "Deutsche Afrika-Linien",
+    "__2": "DAL"
+  },
+  {
+    "": "DBOU",
+    "__1": "De Boer Container Trading",
+    "__2": ""
+  },
+  {
+    "": "DCSU",
+    "__1": "Danish Container Supply A/S",
+    "__2": ""
+  },
+  {
+    "": "DDCU",
+    "__1": "Deutsche Afrika-Linien",
+    "__2": "DAL"
+  },
+  {
+    "": "DFIU",
+    "__1": "Dole Ocean Cargo",
+    "__2": "Dole"
+  },
+  {
+    "": "DFOU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "DFSU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "DJLU",
+    "__1": "Dongjin Shipping",
+    "__2": "Dongjin"
+  },
+  {
+    "": "DLKU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "DNAU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "DNCU",
+    "__1": "DanContainer A/S",
+    "__2": ""
+  },
+  {
+    "": "DRYU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "DTPU",
+    "__1": "Dole Ocean Cargo",
+    "__2": "Dole"
+  },
+  {
+    "": "DVRU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "DYLU",
+    "__1": "Dong Young Shipping",
+    "__2": "Dong Young"
+  },
+  {
+    "": "EASU",
+    "__1": "Waterfront Container Leasing Co. Inc.",
+    "__2": ""
+  },
+  {
+    "": "ECMU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "ECSU",
+    "__1": "Balticon",
+    "__2": ""
+  },
+  {
+    "": "EGHU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "EGSU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "EIMU",
+    "__1": "Eimskip",
+    "__2": "Eimskip"
+  },
+  {
+    "": "EISU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "EITU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "EKLU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "EMAU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "EMCU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "ENAU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "EQRU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "ERFU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "ESDU",
+    "__1": "Emirates Shipping Line",
+    "__2": "Emirates"
+  },
+  {
+    "": "ESLU",
+    "__1": "Ethiopian Shipping Lines",
+    "__2": "ESL"
+  },
+  {
+    "": "ESPU",
+    "__1": "Emirates Shipping Line",
+    "__2": "Emirates"
+  },
+  {
+    "": "ESSU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "ETNU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "EUCU",
+    "__1": "Eucon",
+    "__2": "Eucon"
+  },
+  {
+    "": "EULU",
+    "__1": "EuroAfrica Shipping Lines co. Ltd.",
+    "__2": "ESL"
+  },
+  {
+    "": "EURU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "EUXU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "EVAU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "EXFU",
+    "__1": "EXSIF Worldwide, Inc.",
+    "__2": ""
+  },
+  {
+    "": "EXXU",
+    "__1": "EXSIF Worldwide, Inc.",
+    "__2": ""
+  },
+  {
+    "": "FAAU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "FAMU",
+    "__1": "Flex-Box Limited",
+    "__2": ""
+  },
+  {
+    "": "FANU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "FBIU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FBLU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FBXU",
+    "__1": "Flex-Box Limited",
+    "__2": ""
+  },
+  {
+    "": "FCBU",
+    "__1": "Flex-Box Limited",
+    "__2": ""
+  },
+  {
+    "": "FCCU",
+    "__1": "Far Eastern Shipping Company",
+    "__2": "FESCO"
+  },
+  {
+    "": "FCGU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FCIU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FCLU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FCXU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FESU",
+    "__1": "Far Eastern Shipping Company",
+    "__2": "FESCO"
+  },
+  {
+    "": "FFAU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FJKU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FLTU",
+    "__1": "Eimskip",
+    "__2": "Eimskip"
+  },
+  {
+    "": "FPTU",
+    "__1": "Raffles Lease",
+    "__2": ""
+  },
+  {
+    "": "FRLU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "FSCU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FTAU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "FVIU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "FWUU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "FXLU",
+    "__1": "Flex-Box Limited",
+    "__2": ""
+  },
+  {
+    "": "GAEU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "GAFU",
+    "__1": "Maritime Carrier Shipping Center GmbH & Co.",
+    "__2": "MACS"
+  },
+  {
+    "": "GAOU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "GASU",
+    "__1": "Bulkhaul Ltd.",
+    "__2": ""
+  },
+  {
+    "": "GATU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "GAZU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "GCEU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "GCNU",
+    "__1": "Grimaldi",
+    "__2": "Grimaldi"
+  },
+  {
+    "": "GCUU",
+    "__1": "Global Container Rental Pte Ltd",
+    "__2": ""
+  },
+  {
+    "": "GELU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "GESU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "GETU",
+    "__1": "Tarros S.p.A.",
+    "__2": "Tarros"
+  },
+  {
+    "": "GGOU",
+    "__1": "Grieg Star Shipping",
+    "__2": "Grieg Star"
+  },
+  {
+    "": "GIPU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "GLDU",
+    "__1": "Touax Global Container Solutions",
+    "__2": ""
+  },
+  {
+    "": "GMOU",
+    "__1": "Gold Star Line Ltd.",
+    "__2": "GSL"
+  },
+  {
+    "": "GNSU",
+    "__1": "Samskip",
+    "__2": "Samskip"
+  },
+  {
+    "": "GRCU",
+    "__1": "Borchard Lines Ltd",
+    "__2": "Borchard"
+  },
+  {
+    "": "GRDU",
+    "__1": "Touax Global Container Solutions",
+    "__2": ""
+  },
+  {
+    "": "GRIU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "GSLU",
+    "__1": "Gold Star Line Ltd.",
+    "__2": "GSL"
+  },
+  {
+    "": "GSPU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "GSSU",
+    "__1": "Grieg Star Shipping",
+    "__2": "Grieg Star"
+  },
+  {
+    "": "GSTU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "GTIU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "GUTU",
+    "__1": "UES International (HK) Ltd.",
+    "__2": ""
+  },
+  {
+    "": "GVCU",
+    "__1": "UES International (HK) Ltd.",
+    "__2": ""
+  },
+  {
+    "": "GVDU",
+    "__1": "UES International (HK) Ltd.",
+    "__2": ""
+  },
+  {
+    "": "GVTU",
+    "__1": "Grand View Container Trading",
+    "__2": ""
+  },
+  {
+    "": "HAKU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "HALU",
+    "__1": "Heung-A Shipping Co., Ltd.",
+    "__2": "Heung-A"
+  },
+  {
+    "": "HAMU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "HASU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "HBSU",
+    "__1": "HANBAO Container Shipping & Trading",
+    "__2": ""
+  },
+  {
+    "": "HBTU",
+    "__1": "HANBAO Container Shipping & Trading",
+    "__2": ""
+  },
+  {
+    "": "HCIU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "HCSU",
+    "__1": "HACON Containers B.V.",
+    "__2": ""
+  },
+  {
+    "": "HDMU",
+    "__1": "Hyundai Merchant Marine Co., Ltd.",
+    "__2": "HMM"
+  },
+  {
+    "": "HGBU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HGFU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HGHU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HGTU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HIBU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HJMU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "HLBU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "HLCU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "HLSU",
+    "__1": "HLS Container Bremen",
+    "__2": ""
+  },
+  {
+    "": "HLXU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "HMCU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "HMKU",
+    "__1": "West European Container Lines",
+    "__2": "WEC"
+  },
+  {
+    "": "HMMU",
+    "__1": "Hyundai Merchant Marine Co., Ltd.",
+    "__2": "HMM"
+  },
+  {
+    "": "HMPU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HNPU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "HNSU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "HOTU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HOYU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HRZU",
+    "__1": "Matson",
+    "__2": "Matson"
+  },
+  {
+    "": "HSIU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "HSTU",
+    "__1": "Maritime Carrier Shipping Center GmbH & Co.",
+    "__2": "MACS"
+  },
+  {
+    "": "HTCU",
+    "__1": "Haldor Topsoe A/S",
+    "__2": ""
+  },
+  {
+    "": "IAAU",
+    "__1": "Interasia Lines",
+    "__2": "Interasia"
+  },
+  {
+    "": "IBLU",
+    "__1": "InterBulk Group",
+    "__2": ""
+  },
+  {
+    "": "ICDU",
+    "__1": "ICON International Container Service",
+    "__2": ""
+  },
+  {
+    "": "ICHU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "ICLU",
+    "__1": "EXSIF Worldwide, Inc.",
+    "__2": ""
+  },
+  {
+    "": "ICOU",
+    "__1": "ICON International Container Service",
+    "__2": ""
+  },
+  {
+    "": "ICSU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "ICUU",
+    "__1": "Independent Container Line",
+    "__2": "ICL"
+  },
+  {
+    "": "IEAU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "IHOU",
+    "__1": "Intermodal Tank Transport",
+    "__2": ""
+  },
+  {
+    "": "IJCU",
+    "__1": "IJ-Container ApS",
+    "__2": ""
+  },
+  {
+    "": "IKKU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "IKSU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "IMTU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "INBU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "INGU",
+    "__1": "Trifleet Leasing",
+    "__2": ""
+  },
+  {
+    "": "INKU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "INNU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "INTU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "IPXU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "IRNU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "ITAU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "ITLU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "ITTU",
+    "__1": "Intermodal Tank Transport",
+    "__2": ""
+  },
+  {
+    "": "IVLU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "IXWU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "JAYU",
+    "__1": "Jay Group of Container Companies",
+    "__2": ""
+  },
+  {
+    "": "JSSU",
+    "__1": "The China Navigation Co.,Ltd",
+    "__2": "CNCo"
+  },
+  {
+    "": "JTMU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "JXJU",
+    "__1": "Gold Star Line Ltd.",
+    "__2": "GSL"
+  },
+  {
+    "": "JXLU",
+    "__1": "Gold Star Line Ltd.",
+    "__2": "GSL"
+  },
+  {
+    "": "KHJU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "KHLU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "KKFU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "KKLU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "KKTU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "KLCU",
+    "__1": "Containerships",
+    "__2": "Containerships"
+  },
+  {
+    "": "KLFU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "KLTU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "KMTU",
+    "__1": "Korea Marine Transport Co., Ltd.",
+    "__2": "KMTC"
+  },
+  {
+    "": "KNLU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "KOSU",
+    "__1": "King Ocean Sercies",
+    "__2": "King Ocean"
+  },
+  {
+    "": "KTNU",
+    "__1": "K-tainer Trading & Transport GmbH",
+    "__2": ""
+  },
+  {
+    "": "KWCU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "KXTU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "LBIU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "LCRU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "LGEU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "LLTU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "LMCU",
+    "__1": "Linea Messina",
+    "__2": "Linea Messina"
+  },
+  {
+    "": "LNXU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "LOGU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "LOTU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "LSEU",
+    "__1": "One Way Lease",
+    "__2": ""
+  },
+  {
+    "": "LTIU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "LVNU",
+    "__1": "Flex-Box Limited",
+    "__2": ""
+  },
+  {
+    "": "LYKU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "MAEU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MAGU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "MALU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MANU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "MARU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "MATU",
+    "__1": "Matson",
+    "__2": "Matson"
+  },
+  {
+    "": "MAXU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "MBBU",
+    "__1": "Multiboxx",
+    "__2": ""
+  },
+  {
+    "": "MBDU",
+    "__1": "Multiboxx",
+    "__2": ""
+  },
+  {
+    "": "MBGU",
+    "__1": "Multiboxx",
+    "__2": ""
+  },
+  {
+    "": "MBIU",
+    "__1": "Bridgehead Container Services Ltd",
+    "__2": ""
+  },
+  {
+    "": "MBTU",
+    "__1": "Multiboxx",
+    "__2": ""
+  },
+  {
+    "": "MCAU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MCHU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MCLU",
+    "__1": "Borchard Lines Ltd",
+    "__2": "Borchard"
+  },
+  {
+    "": "MCPU",
+    "__1": "MCC Transport Pte. Ltd.",
+    "__2": "MCC"
+  },
+  {
+    "": "MCRU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MCTU",
+    "__1": "Mariana Express Lines Ltd",
+    "__2": "MELL"
+  },
+  {
+    "": "MEDU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MERU",
+    "__1": "Mariana Express Lines Ltd",
+    "__2": "MELL"
+  },
+  {
+    "": "MEXU",
+    "__1": "Mariana Express Lines Ltd",
+    "__2": "MELL"
+  },
+  {
+    "": "MFRU",
+    "__1": "Marfret Compagnie Maritime",
+    "__2": "Marfret"
+  },
+  {
+    "": "MFTU",
+    "__1": "Marfret Compagnie Maritime",
+    "__2": "Marfret"
+  },
+  {
+    "": "MGLU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "MGNU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "MHHU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MIEU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MLCU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "MMAU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MMCU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "MNBU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MOAU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "MOCU",
+    "__1": "Maritime Carrier Shipping Center GmbH & Co.",
+    "__2": "MACS"
+  },
+  {
+    "": "MOEU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "MOFU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "MOGU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "MOLU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "MOMU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "MORU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "MOSU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "MOTU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "MRKU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MRSU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MSAU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MSCU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MSDU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MSFU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MSHU",
+    "__1": "Malaysia International Shipping Corporation Berhad",
+    "__2": "MISC"
+  },
+  {
+    "": "MSKU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MSMU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MSNU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MSOU",
+    "__1": "M/S Container A/S",
+    "__2": ""
+  },
+  {
+    "": "MSPU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MSTU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MSUU",
+    "__1": "M/S Container A/S",
+    "__2": ""
+  },
+  {
+    "": "MSWU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MSYU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MSZU",
+    "__1": "Mediterranean Shipping Company",
+    "__2": "MSC"
+  },
+  {
+    "": "MTBU",
+    "__1": "Multiboxx",
+    "__2": ""
+  },
+  {
+    "": "MTRU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "MTSU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "MTYU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "MVIU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MWCU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "MWMU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "NDSU",
+    "__1": "Nile Dutch Africa Line",
+    "__2": "NDS"
+  },
+  {
+    "": "NEPU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "NEVU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "NIDU",
+    "__1": "Nile Dutch Africa Line",
+    "__2": "NDS"
+  },
+  {
+    "": "NIRU",
+    "__1": "Nirint Shipping",
+    "__2": "Nirint Shipping"
+  },
+  {
+    "": "NLLU",
+    "__1": "Noble Container Leasing Limited",
+    "__2": ""
+  },
+  {
+    "": "NOLU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "NOSU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "NPRU",
+    "__1": "TOTE Maritime (Sea Star Line)",
+    "__2": "TOTE Maritime"
+  },
+  {
+    "": "NSAU",
+    "__1": "Bahri / National Shipping Company of Saudi Arabia",
+    "__2": "Bahri"
+  },
+  {
+    "": "NSCU",
+    "__1": "NSC Arkhangelsk",
+    "__2": "NSC"
+  },
+  {
+    "": "NSRU",
+    "__1": "Namsung Shipping Co., Ltd.",
+    "__2": "Namsung"
+  },
+  {
+    "": "NSSU",
+    "__1": "Namsung Shipping Co., Ltd.",
+    "__2": "Namsung"
+  },
+  {
+    "": "NUSU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "NYKU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "NZDU",
+    "__1": "Novozymes",
+    "__2": ""
+  },
+  {
+    "": "NZKU",
+    "__1": "Novozymes",
+    "__2": ""
+  },
+  {
+    "": "OALU",
+    "__1": "Ocean Africa Container Lines",
+    "__2": "Ocean Africa"
+  },
+  {
+    "": "OCLU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "OCVU",
+    "__1": "Overbeek",
+    "__2": ""
+  },
+  {
+    "": "OFFU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "ONEU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "OOCU",
+    "__1": "Orient Overseas Container Line Ltd.",
+    "__2": "OOCL"
+  },
+  {
+    "": "OOLU",
+    "__1": "Orient Overseas Container Line Ltd.",
+    "__2": "OOCL"
+  },
+  {
+    "": "OPDU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "OTAU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "OTEU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "OTPU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "OWLU",
+    "__1": "One Way Lease",
+    "__2": ""
+  },
+  {
+    "": "OWNU",
+    "__1": "Tarros S.p.A.",
+    "__2": "Tarros"
+  },
+  {
+    "": "PBIU",
+    "__1": "Pro Box",
+    "__2": ""
+  },
+  {
+    "": "PCIU",
+    "__1": "Pacific International Lines",
+    "__2": "PIL"
+  },
+  {
+    "": "PCLU",
+    "__1": "Pan Continental Shipping Co., Ltd.",
+    "__2": "PanCon"
+  },
+  {
+    "": "PCVU",
+    "__1": "Peacock",
+    "__2": ""
+  },
+  {
+    "": "PDLU",
+    "__1": "Pacific Direct Line",
+    "__2": "PDL"
+  },
+  {
+    "": "PGTU",
+    "__1": "Touax Global Container Solutions",
+    "__2": ""
+  },
+  {
+    "": "PGXU",
+    "__1": "Florens Container Services",
+    "__2": ""
+  },
+  {
+    "": "PHLU",
+    "__1": "Spinnaker Equipment Services",
+    "__2": ""
+  },
+  {
+    "": "PILU",
+    "__1": "Pacific International Lines",
+    "__2": "PIL"
+  },
+  {
+    "": "POCU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "PONU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "PRGU",
+    "__1": "Progeco",
+    "__2": ""
+  },
+  {
+    "": "PRKU",
+    "__1": "Protank Logistics Co., Ltd.",
+    "__2": ""
+  },
+  {
+    "": "PRSU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "PSCU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "PSOU",
+    "__1": "Pentalver Transport",
+    "__2": ""
+  },
+  {
+    "": "PSSU",
+    "__1": "Pentalver Transport",
+    "__2": ""
+  },
+  {
+    "": "PVDU",
+    "__1": "Unit45",
+    "__2": ""
+  },
+  {
+    "": "PXCU",
+    "__1": "Ocean Network Express",
+    "__2": "ONE"
+  },
+  {
+    "": "QBXU",
+    "__1": "CHS Container",
+    "__2": ""
+  },
+  {
+    "": "QIBU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "QNNU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "RALU",
+    "__1": "Royal Arctic Line",
+    "__2": "RAL"
+  },
+  {
+    "": "RAVU",
+    "__1": "Flex-Box Limited",
+    "__2": ""
+  },
+  {
+    "": "RCDU",
+    "__1": "Unit45",
+    "__2": ""
+  },
+  {
+    "": "RCLU",
+    "__1": "R.M.I. Global Logistics Services",
+    "__2": ""
+  },
+  {
+    "": "REGU",
+    "__1": "Regional Container Lines",
+    "__2": "RCL"
+  },
+  {
+    "": "RFCU",
+    "__1": "Raffles Lease",
+    "__2": ""
+  },
+  {
+    "": "RFLU",
+    "__1": "R.M.I. Global Logistics Services",
+    "__2": ""
+  },
+  {
+    "": "RFSU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "RILU",
+    "__1": "Zeamarine",
+    "__2": "Zeamarine"
+  },
+  {
+    "": "RJCU",
+    "__1": "Flex-Box Limited",
+    "__2": ""
+  },
+  {
+    "": "RLTU",
+    "__1": "Raffles Lease",
+    "__2": ""
+  },
+  {
+    "": "RMCU",
+    "__1": "Multistar",
+    "__2": ""
+  },
+  {
+    "": "RMTU",
+    "__1": "R.M.I. Global Logistics Services",
+    "__2": ""
+  },
+  {
+    "": "RRIU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "RSLU",
+    "__1": "Reef Shipping",
+    "__2": "Reef"
+  },
+  {
+    "": "RSSU",
+    "__1": "Royal Wolf",
+    "__2": ""
+  },
+  {
+    "": "RSTU",
+    "__1": "Unit45",
+    "__2": ""
+  },
+  {
+    "": "RTHU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "RWLU",
+    "__1": "Royal Wolf",
+    "__2": ""
+  },
+  {
+    "": "RWTU",
+    "__1": "Royal Wolf",
+    "__2": ""
+  },
+  {
+    "": "SACU",
+    "__1": "Wallenius Wilhelmsen Logistics",
+    "__2": "WWL"
+  },
+  {
+    "": "SANU",
+    "__1": "Samskip",
+    "__2": "Samskip"
+  },
+  {
+    "": "SAXU",
+    "__1": "Noble Container Leasing Limited",
+    "__2": ""
+  },
+  {
+    "": "SBGU",
+    "__1": "TOTE Maritime (Sea Star Line)",
+    "__2": "TOTE Maritime"
+  },
+  {
+    "": "SBIU",
+    "__1": "Sea Box",
+    "__2": ""
+  },
+  {
+    "": "SBOU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SCEU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SCMU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "SCNU",
+    "__1": "Sea Cargo",
+    "__2": "Sea Cargo"
+  },
+  {
+    "": "SCPU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SCSU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "SCXU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SCZU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SDDU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "SDOU",
+    "__1": "Spinnaker Equipment Services",
+    "__2": ""
+  },
+  {
+    "": "SEAU",
+    "__1": "SeaLand",
+    "__2": "SeaLand"
+  },
+  {
+    "": "SECU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "SEFU",
+    "__1": "Crowley",
+    "__2": "Crowley"
+  },
+  {
+    "": "SEGU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SEKU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SELU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SEMU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SESU",
+    "__1": "Spinnaker Equipment Services",
+    "__2": ""
+  },
+  {
+    "": "SEXU",
+    "__1": "Container Norway AS",
+    "__2": ""
+  },
+  {
+    "": "SGCU",
+    "__1": "Sogeco",
+    "__2": ""
+  },
+  {
+    "": "SGRU",
+    "__1": "Sogeco",
+    "__2": ""
+  },
+  {
+    "": "SIIU",
+    "__1": "The Shipping Coporation of India Ltd.",
+    "__2": "SCI"
+  },
+  {
+    "": "SIKU",
+    "__1": "Samudera Shipping Line Ltd",
+    "__2": "Samudera"
+  },
+  {
+    "": "SITU",
+    "__1": "SITC Container Lines Co., LTD",
+    "__2": "SITC"
+  },
+  {
+    "": "SJKU",
+    "__1": "Sarjak Container Lines",
+    "__2": "Sarjak"
+  },
+  {
+    "": "SKHU",
+    "__1": "Sinokor Merchant Marine Co.,Ltd",
+    "__2": "Sinokor"
+  },
+  {
+    "": "SKIU",
+    "__1": "Blue Sky Intermodal (UK) Ltd",
+    "__2": ""
+  },
+  {
+    "": "SKLU",
+    "__1": "Sinokor Merchant Marine Co.,Ltd",
+    "__2": "Sinokor"
+  },
+  {
+    "": "SKRU",
+    "__1": "Sinokor Merchant Marine Co.,Ltd",
+    "__2": "Sinokor"
+  },
+  {
+    "": "SKYU",
+    "__1": "CAI (Container Applications International)",
+    "__2": ""
+  },
+  {
+    "": "SLEU",
+    "__1": "Spinnaker Equipment Services",
+    "__2": ""
+  },
+  {
+    "": "SLSU",
+    "__1": "Spinnaker Equipment Services",
+    "__2": ""
+  },
+  {
+    "": "SLZU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "SMCU",
+    "__1": "SM Line",
+    "__2": "SM Line"
+  },
+  {
+    "": "SMLU",
+    "__1": "Seaboard Marine",
+    "__2": "Seaboard Marine"
+  },
+  {
+    "": "SMUU",
+    "__1": "Containerships",
+    "__2": "Containerships"
+  },
+  {
+    "": "SNBU",
+    "__1": "Sinotrans Container Lines Co.,Ltd",
+    "__2": "Sinolines"
+  },
+  {
+    "": "SNGU",
+    "__1": "Sinotrans Container Lines Co.,Ltd",
+    "__2": "Sinolines"
+  },
+  {
+    "": "SNHU",
+    "__1": "Sinotrans Container Lines Co.,Ltd",
+    "__2": "Sinolines"
+  },
+  {
+    "": "SNIU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "SNSU",
+    "__1": "Sloman Neptun Schiffahrts AG",
+    "__2": "Sloman"
+  },
+  {
+    "": "SNTU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "SOCU",
+    "__1": "Star Service",
+    "__2": ""
+  },
+  {
+    "": "SOFU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "SPKU",
+    "__1": "Spinnaker Equipment Services",
+    "__2": ""
+  },
+  {
+    "": "SPLU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "SPWU",
+    "__1": "SpaceWise",
+    "__2": ""
+  },
+  {
+    "": "STBU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "STMU",
+    "__1": "Compagnie Maritime d Affretement Compagnie Generale Maritime",
+    "__2": "CMA CGM"
+  },
+  {
+    "": "STRU",
+    "__1": "TOTE Maritime (Sea Star Line)",
+    "__2": "TOTE Maritime"
+  },
+  {
+    "": "STXU",
+    "__1": "STX Pan Ocean",
+    "__2": "STX"
+  },
+  {
+    "": "SUDU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "SVDU",
+    "__1": "Samskip",
+    "__2": "Samskip"
+  },
+  {
+    "": "SVWU",
+    "__1": "CHS Container",
+    "__2": ""
+  },
+  {
+    "": "SWLU",
+    "__1": "Samskip",
+    "__2": "Samskip"
+  },
+  {
+    "": "SWTU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "SZLU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "TABU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "TAIU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "TARU",
+    "__1": "Tarros S.p.A.",
+    "__2": "Tarros"
+  },
+  {
+    "": "TASU",
+    "__1": "Tankspan",
+    "__2": ""
+  },
+  {
+    "": "TCIU",
+    "__1": "TITAN Containers International A/S",
+    "__2": ""
+  },
+  {
+    "": "TCKU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TCLU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TCNU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TCUU",
+    "__1": "Trifleet Leasing",
+    "__2": ""
+  },
+  {
+    "": "TDRU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TDTU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TEDU",
+    "__1": "Agunsa Chile",
+    "__2": ""
+  },
+  {
+    "": "TEMU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "TENU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "TEXU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "TGBU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "TGCU",
+    "__1": "Touax Global Container Solutions",
+    "__2": ""
+  },
+  {
+    "": "TGHU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "TGSU",
+    "__1": "Touax Global Container Solutions",
+    "__2": ""
+  },
+  {
+    "": "TIFU",
+    "__1": "Trifleet Leasing",
+    "__2": ""
+  },
+  {
+    "": "TIIU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TISU",
+    "__1": "TIS (Transport Industrial Service)",
+    "__2": ""
+  },
+  {
+    "": "TITU",
+    "__1": "TITAN Containers International A/S",
+    "__2": ""
+  },
+  {
+    "": "TLCU",
+    "__1": "Unifeeder",
+    "__2": "Unifeeder"
+  },
+  {
+    "": "TLEU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "TLLU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TLNU",
+    "__1": "Trident Container Leasing",
+    "__2": ""
+  },
+  {
+    "": "TLXU",
+    "__1": "Trans Asia Line",
+    "__2": "TA"
+  },
+  {
+    "": "TMIU",
+    "__1": "Trifleet Leasing",
+    "__2": ""
+  },
+  {
+    "": "TMLU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "TMMU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "TMYU",
+    "__1": "Transportes Maritimos Insulares, S.A.",
+    "__2": "Transinsular"
+  },
+  {
+    "": "TOLU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TOPU",
+    "__1": "TOPtainer",
+    "__2": ""
+  },
+  {
+    "": "TORU",
+    "__1": "Maersk Line",
+    "__2": "Maersk"
+  },
+  {
+    "": "TPCU",
+    "__1": "Wan Hai Lines",
+    "__2": "WHL"
+  },
+  {
+    "": "TPHU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TPMU",
+    "__1": "EXSIF Worldwide, Inc.",
+    "__2": ""
+  },
+  {
+    "": "TPTU",
+    "__1": "EXSIF Worldwide, Inc.",
+    "__2": ""
+  },
+  {
+    "": "TPXU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TQMU",
+    "__1": "Intermodal Tank Transport",
+    "__2": ""
+  },
+  {
+    "": "TRDU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TRHU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TRIU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TRKU",
+    "__1": "Turkon Line Inc",
+    "__2": "Turkon"
+  },
+  {
+    "": "TRLU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TRTU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "TRVU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TSGU",
+    "__1": "Dole Ocean Cargo",
+    "__2": "Dole"
+  },
+  {
+    "": "TSSU",
+    "__1": "T. S. Lines",
+    "__2": "TSL"
+  },
+  {
+    "": "TSTU",
+    "__1": "T. S. Lines",
+    "__2": "TSL"
+  },
+  {
+    "": "TTNU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "TTTU",
+    "__1": "Eurotainer SA",
+    "__2": ""
+  },
+  {
+    "": "TXGU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "UACU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "UAEU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "UASU",
+    "__1": "Hapag Lloyd Container Line",
+    "__2": "Hapag"
+  },
+  {
+    "": "UCLU",
+    "__1": "Ocean Africa Container Lines",
+    "__2": "Ocean Africa"
+  },
+  {
+    "": "UESU",
+    "__1": "UES International (HK) Ltd.",
+    "__2": ""
+  },
+  {
+    "": "UETU",
+    "__1": "UES International (HK) Ltd.",
+    "__2": ""
+  },
+  {
+    "": "UFCU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "UGMU",
+    "__1": "Evergreen Line",
+    "__2": "Evergreen"
+  },
+  {
+    "": "UNDU",
+    "__1": "UniTainer",
+    "__2": ""
+  },
+  {
+    "": "UNIU",
+    "__1": "Unitas Container Leasing",
+    "__2": ""
+  },
+  {
+    "": "UNOU",
+    "__1": "Uniteam Norway",
+    "__2": ""
+  },
+  {
+    "": "UNXU",
+    "__1": "Unitas Container Leasing",
+    "__2": ""
+  },
+  {
+    "": "USPU",
+    "__1": "EXSIF Worldwide, Inc.",
+    "__2": ""
+  },
+  {
+    "": "UTCU",
+    "__1": "Stolt Tank Containers",
+    "__2": ""
+  },
+  {
+    "": "UXXU",
+    "__1": "UES International (HK) Ltd.",
+    "__2": ""
+  },
+  {
+    "": "VDMU",
+    "__1": "Samskip",
+    "__2": "Samskip"
+  },
+  {
+    "": "VMLU",
+    "__1": "Vasco Maritime",
+    "__2": "Vasco"
+  },
+  {
+    "": "VSBU",
+    "__1": "VS&B Containers Group",
+    "__2": ""
+  },
+  {
+    "": "VSTU",
+    "__1": "VS&B Containers Group",
+    "__2": ""
+  },
+  {
+    "": "WABU",
+    "__1": "Hoyer Global Transport",
+    "__2": ""
+  },
+  {
+    "": "WBPU",
+    "__1": "SeaCube Container Leasing Ltd",
+    "__2": ""
+  },
+  {
+    "": "WCIU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "WCXU",
+    "__1": "West European Container Lines",
+    "__2": "WEC"
+  },
+  {
+    "": "WECU",
+    "__1": "West European Container Lines",
+    "__2": "WEC"
+  },
+  {
+    "": "WEDU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "WFHU",
+    "__1": "Waterfront Container Leasing Co. Inc.",
+    "__2": ""
+  },
+  {
+    "": "WHLU",
+    "__1": "Wan Hai Lines",
+    "__2": "WHL"
+  },
+  {
+    "": "WHSU",
+    "__1": "Wan Hai Lines",
+    "__2": "WHL"
+  },
+  {
+    "": "WLNU",
+    "__1": "Wallenius Wilhelmsen Logistics",
+    "__2": "WWL"
+  },
+  {
+    "": "WSCU",
+    "__1": "Caru",
+    "__2": ""
+  },
+  {
+    "": "WSLU",
+    "__1": "Westwood Shipping Lines",
+    "__2": "Westwood"
+  },
+  {
+    "": "WTLU",
+    "__1": "White Line Shipping",
+    "__2": "WLS"
+  },
+  {
+    "": "WWLU",
+    "__1": "Wallenius Wilhelmsen Logistics",
+    "__2": "WWL"
+  },
+  {
+    "": "XINU",
+    "__1": "Textainer",
+    "__2": ""
+  },
+  {
+    "": "XTRU",
+    "__1": "SeaCo",
+    "__2": ""
+  },
+  {
+    "": "YMLU",
+    "__1": "Yang Ming Line",
+    "__2": "YML"
+  },
+  {
+    "": "YMMU",
+    "__1": "Yang Ming Line",
+    "__2": "YML"
+  },
+  {
+    "": "YOIU",
+    "__1": "Triton Container International Limited",
+    "__2": ""
+  },
+  {
+    "": "ZCLU",
+    "__1": "ZIM Integrated Shipping Services Ltd",
+    "__2": "ZIM"
+  },
+  {
+    "": "ZCSU",
+    "__1": "ZIM Integrated Shipping Services Ltd",
+    "__2": "ZIM"
+  },
+  {
+    "": "ZIMU",
+    "__1": "ZIM Integrated Shipping Services Ltd",
+    "__2": "ZIM"
+  },
+  {
+    "": "ZMCU",
+    "__1": "Zeamarine",
+    "__2": "Zeamarine"
+  },
+  {
+    "": "ZMOU",
+    "__1": "ZIM Integrated Shipping Services Ltd",
+    "__2": "ZIM"
+  }
+]
